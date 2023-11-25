@@ -15,4 +15,5 @@
   </div>
 </div>
 <h2 align="center">Some of my recent projects include</h2>
-<a align="center" href="https://github.com/clamnam/Pace-Converter" target="_blank" rel="noreferrer">Pace Calculator</a>
+<div align="center"><a  href="https://github.com/clamnam/Pace-Converter" target="_blank" rel="noreferrer">Pace Calculator</a><div/>
+
