@@ -18,7 +18,7 @@
 <div align="center"><a  href="https://github.com/clamnam/Pace-Converter" target="_blank" rel="noreferrer">Pace Calculator (Utilize python and tkinter to create gui that provides otherwise unavailable utility for running)</a><div/>
 <div align="center"><a  href="https://github.com/clamnam/react-countries-app " target="_blank" rel="noreferrer">React Countries App (Project to search sort and check out info of countries including weather from multiple apis)</a><div/>
 
-<div align="center"><a  href="[https://github.com/clamnam/react-countries-app](https://github.com/clamnam/Riot-Api-Project) " target="_blank" rel="noreferrer"> *WIP* Project to use riot api to connect teammate voices in autochess</a><div/>
+<div align="center"><a  href="https://github.com/clamnam/react-countries-app" target="_blank" rel="noreferrer"> *WIP* Project to use riot api to connect teammate voices in autochess</a><div/>
 
 
 
