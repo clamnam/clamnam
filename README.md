@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A student and amateur full stack dev</h3>
+<h1 align="center">Hey, I'm Jack</h1>
+<h3 align="center">A student and amateur software developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=clamnam&label=Profile%20views&color=0e75b6&style=flat" alt="clamnam" /> </p>
 
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Clamnam&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a></div>
 
-<p align="left">
-</p>
 <div class="center-container">
+
   <div class="content-container">
     <h3 align="center">Languages and Tools:</h3>
     <p align="center">
@@ -21,9 +22,5 @@
 <div align="center"><a  href="https://github.com/clamnam/react-countries-app" target="_blank" rel="noreferrer"> - *WIP* Project to use riot api to connect teammate voices in autochess</a><div/>
 
 
-<h2 align="center">Some stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clamnam&show_icons=true&locale=en" alt="clamnam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clamnam&" alt="clamnam" /></p>
 
