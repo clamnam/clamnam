@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=clamnam&label=Profile%20views&color=0e75b6&style=flat" alt="clamnam" /> </p>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Clamnam&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a></div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Clamnam&theme=dark&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=500&hide_longest_streak=true" alt="GitHub Streak" /></a></div>
 
 <div class="center-container">
 
