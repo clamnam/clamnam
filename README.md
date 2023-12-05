@@ -66,6 +66,8 @@
 <div align="center"><a  href="https://github.com/clamnam/Pace-Converter" target="_blank" rel="noreferrer"> - Pace Calculator (Utilize python and tkinter to create gui that provides otherwise unavailable utility for running)</a><div/>
 <div align="center"><a  href="https://github.com/clamnam/react-countries-app " target="_blank" rel="noreferrer"> - React Countries App (Project to search sort and check out info of countries including weather from multiple apis)</a><div/>
   <div align="center"><a  href="https://github.com/clamnam/react-courses-app" target="_blank" rel="noreferrer"> - React Courses App (Project to search sort and check out info of Courses and college including lecturers</a><div/>
+    <div align="center"><a  href="https://github.com/clamnam/Art-Laravel-Project" target="_blank" rel="noreferrer"> - Laravel Full stack project allowing CRUD functionality on art pieces acting on a database</a><div/>
+
 
 
 <div align="center"><a  href="https://github.com/clamnam/react-countries-app" target="_blank" rel="noreferrer"> - *WIP* Project to use riot api to connect teammate voices in autochess</a><div/>
