@@ -9,9 +9,9 @@
   <div class="content-container">
     <h3 align="center">Languages and Tools I Use:</h3>
 <p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=js,php,html,css,aws,docker,git,azure,react,firebase,laravel,php,mysql)](https://skillicons.dev)
-    
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,react,laravel,php,aws,tailwind,bootstrap,docker" />
+  </a>
 </p>
 
   </div>
