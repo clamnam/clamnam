@@ -1,6 +1,6 @@
 <div >
 <div class='container'>
-<h1 align="">Hey, I'm </h1>
+<h1 align="">Hey, I'm Jack</h1>
 <h3 align="">A student and amateur software developer</h3>
 
 
