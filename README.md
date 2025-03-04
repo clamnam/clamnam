@@ -12,7 +12,7 @@
     <h3 align="">Languages and Tools I Use:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,js,react,aws,tailwind,bootstrap,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,py,js,react,aws,tailwind,rust,docker" />
   </a>
 </p>
 
