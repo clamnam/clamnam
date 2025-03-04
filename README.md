@@ -1,7 +1,7 @@
 <div >
 <div class='container'>
 <h1 align="">Hey, I'm Jack</h1>
-<h3 align="">A student and amateur software developer</h3>
+<h3 align="">A Full stack software developer</h3>
 
 
 
