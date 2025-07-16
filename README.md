@@ -23,15 +23,24 @@
 <h2 align="">Some of my recent projects include</h2>
 <div align="">  <a href="http://react--portfolio-app.s3-website-eu-west-1.amazonaws.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">My Portfolio</a>
 <div/>
+  
   <br/>
+  <h4>
+  Wiki Platform 
+</h4> 
+<div align=""><a  href="https://github.com/clamnam/politiwiki.git" target="_blank" rel="noreferrer"> Rust based headless wiki system</a><div/>
+<div align=""><a  href="https://github.com//Pace-Converter" target="_blank" rel="noreferrer">React, wiki front end</a><div/>
+
+    <br/>
+
 <div align=""><a  href="https://github.com//Pace-Converter" target="_blank" rel="noreferrer"> Pace Calculator for runners</a><div/>
     <br/>
 
 <div align=""><a  href="https://github.com//react-countries-app " target="_blank" rel="noreferrer"> React Countries App </a><div/>
     <br/>
 <div align=""><a  href="https://github.com/clamnam/arduino-project-api-display.git" target="_blank" rel="noreferrer"> Arduino Custom Data dashboard </a><div/>
-  <div align=""><a  href="https://github.com//react-courses-app" target="_blank" rel="noreferrer"> React Courses App </a><div/><br/>
-    <div align=""><a  href="https://github.com//Art-Laravel-Project" target="_blank" rel="noreferrer"> Laravel Full stack art application</a><div/> <br/>
+
+<div align=""><a  href="https://github.com//Art-Laravel-Project" target="_blank" rel="noreferrer"> Laravel Full stack art application</a><div/> <br/>
 
 
 
