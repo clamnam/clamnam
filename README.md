@@ -28,7 +28,7 @@ Portfolio</h3>
   
   <br/>
   <h3>
-  Wiki Platform 
+  Wiki Platform (Rust)
 </h3> 
 <div align=""><a  href="https://github.com/clamnam/politiwiki.git" target="_blank" rel="noreferrer"> Rust based headless wiki system</a><div/>
 <div align=""><a  href="https://github.com//Pace-Converter" target="_blank" rel="noreferrer">React, wiki front end</a><div/>
