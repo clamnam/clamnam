@@ -25,9 +25,9 @@
 <div/>
   
   <br/>
-  <h4>
+  <h3>
   Wiki Platform 
-</h4> 
+</h3> 
 <div align=""><a  href="https://github.com/clamnam/politiwiki.git" target="_blank" rel="noreferrer"> Rust based headless wiki system</a><div/>
 <div align=""><a  href="https://github.com//Pace-Converter" target="_blank" rel="noreferrer">React, wiki front end</a><div/>
 
@@ -39,6 +39,7 @@
 <div align=""><a  href="https://github.com//react-countries-app " target="_blank" rel="noreferrer"> React Countries App </a><div/>
     <br/>
 <div align=""><a  href="https://github.com/clamnam/arduino-project-api-display.git" target="_blank" rel="noreferrer"> Arduino Custom Data dashboard </a><div/>
+    <br/>
 
 <div align=""><a  href="https://github.com//Art-Laravel-Project" target="_blank" rel="noreferrer"> Laravel Full stack art application</a><div/> <br/>
 
